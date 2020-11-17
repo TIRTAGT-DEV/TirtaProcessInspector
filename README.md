@@ -2,7 +2,7 @@
 A Better, Lighter, easier, but Advanced way to Get a Detailed Application (Process) Information.
 
 
-![Screenshot of the TirtaProcessInspector UI](https://raw.githubusercontent.com/TIRTAGT-DEV/TirtaProcessInspector/production/github-resource/TirtaProcessInspector%20screen.png "Screenshot of TirtaProcessInspector")
+![Screenshot of the TirtaProcessInspector UI](https://raw.githubusercontent.com/TIRTAGT-DEV/TirtaProcessInspector/production/github-resource/Catched%20UI.png "Screenshot of TirtaProcessInspector")
 
 ***
 
